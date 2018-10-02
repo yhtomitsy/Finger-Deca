@@ -1787,7 +1787,6 @@ design rules under a new name.</description>
 <wire x1="2.86" y1="10.72" x2="2.38" y2="11.2" width="0.254" layer="16"/>
 <wire x1="3.07" y1="10.23" x2="1.45" y2="10.23" width="0.1524" layer="1"/>
 <wire x1="1.45" y1="10.23" x2="1.44" y2="10.24" width="0.1524" layer="1"/>
-<wire x1="2.86" y1="9.84" x2="3.25" y2="9.84" width="0.1524" layer="16"/>
 <contactref element="U$6" pad="5"/>
 <wire x1="6.1" y1="5.065" x2="6.1" y2="4.08" width="0.254" layer="1"/>
 <wire x1="6.1" y1="4.08" x2="6.5" y2="3.68" width="0.254" layer="1"/>
@@ -1846,10 +1845,10 @@ design rules under a new name.</description>
 <contactref element="U2" pad="9"/>
 <contactref element="C1" pad="1"/>
 <via x="4.3" y="7.17" extent="1-16" drill="0.4"/>
-<wire x1="5.54" y1="5.52" x2="5.54" y2="5.93" width="0.1524" layer="16"/>
-<wire x1="5.54" y1="5.93" x2="4.3" y2="7.17" width="0.1524" layer="16"/>
 <wire x1="4.72" y1="8.28" x2="4.72" y2="7.59" width="0.1524" layer="1"/>
 <wire x1="4.72" y1="7.59" x2="4.3" y2="7.17" width="0.1524" layer="1"/>
+<wire x1="4.3" y1="7.17" x2="4.3" y2="6.76" width="0.1524" layer="16"/>
+<wire x1="4.3" y1="6.76" x2="5.54" y2="5.52" width="0.1524" layer="16"/>
 </signal>
 <signal name="ADDR/MOSI">
 <contactref element="SJ2" pad="2"/>

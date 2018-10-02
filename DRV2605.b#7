@@ -1468,8 +1468,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <smd name="8" x="2.5" y="-4.775" dx="0.6" dy="1.55" layer="1"/>
 <smd name="9" x="3.5" y="-4.775" dx="0.6" dy="1.55" layer="1"/>
 <smd name="10" x="4.5" y="-4.775" dx="0.6" dy="1.55" layer="1"/>
-<smd name="M3" x="-5.2" y="-0.9" dx="1.2" dy="1.8" layer="1"/>
-<smd name="M4" x="5.2" y="-0.9" dx="1.2" dy="1.8" layer="1"/>
+<smd name="M3" x="-5.1" y="-0.9" dx="1.2" dy="1.8" layer="1"/>
+<smd name="M4" x="5.1" y="-0.9" dx="1.2" dy="1.8" layer="1"/>
 </package>
 </packages>
 </library>

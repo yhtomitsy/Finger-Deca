@@ -1761,7 +1761,6 @@ design rules under a new name.</description>
 <wire x1="10.03" y1="4.68" x2="10.41" y2="5.06" width="0.254" layer="16"/>
 <wire x1="10.03" y1="4.68" x2="9.64" y2="4.68" width="0.1524" layer="16"/>
 <via x="7.43" y="3.72" extent="1-16" drill="0.4"/>
-<wire x1="3.25" y1="9.84" x2="3.24" y2="9.84" width="0.1524" layer="16"/>
 <wire x1="4.1" y1="11.68" x2="4.1" y2="11.13" width="0.1524" layer="1"/>
 <wire x1="4.1" y1="11.13" x2="4.42" y2="10.81" width="0.1524" layer="1"/>
 <wire x1="4.42" y1="10.81" x2="4.42" y2="10.36" width="0.1524" layer="1"/>
