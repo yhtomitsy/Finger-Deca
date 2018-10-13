@@ -1767,10 +1767,8 @@ design rules under a new name.</description>
 <element name="JP2" library="yhtomit_jumpers" package="XTRA_SMAL_JUMPER_3_1_NC" value="JUMPER_3PLACE_1NC_XTRA_SMALL" x="1.06" y="4.84" smashed="yes" rot="MR90">
 <attribute name="NAME" x="1.09" y="2.613" size="0.6096" layer="26" font="vector" ratio="20" rot="MR0" align="bottom-center"/>
 </element>
-<element name="J1" library="SparkFun-Connectors" library_urn="urn:adsk.eagle:library:513" package="USB-B-MICRO-SMD" package3d_urn="urn:adsk.eagle:package:38238/1" value="" x="5.4" y="2" smashed="yes" rot="R90">
-<attribute name="NAME" x="0.701" y="0.73" size="0.6096" layer="25" font="vector" ratio="20" rot="R90"/>
+<element name="J1" library="SparkFun-Connectors" library_urn="urn:adsk.eagle:library:513" package="USB-B-MICRO-SMD" package3d_urn="urn:adsk.eagle:package:38238/1" value="" x="5.4" y="2" rot="R90">
 <attribute name="PROD_ID" value="CONN-11752" x="5.4" y="2" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="10.099" y="0.73" size="0.6096" layer="27" font="vector" ratio="20" rot="R90" align="top-left"/>
 </element>
 </elements>
 <signals>
